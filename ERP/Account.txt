@@ -1,0 +1,14 @@
+User: sa
+Pass: softwarebyhkl
+Pass(Shoe): softwarebyhkl@tfs
+===============
+HO-Live
+Server: CLSQL01\CLSQL01, Use database HO-LIVE
+Windows Authentication
+User: jetuser
+Pass: jetuser@123
+
+===============
+Server: CLSQLSVR, Use database TFS_TEST
+User: sa, Pass: clsqlsvr@tfs
+User Database: HL-TEST

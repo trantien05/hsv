@@ -1,0 +1,1 @@
+Update MenuRight Set Enable = 1 Where Id In(Select MIN(Id) from MenuRight Where Enable = 0 Group By UserCode, MenuId Having COUNT(*) > 1)
